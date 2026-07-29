@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1785287246|3645017347';
+const CACHE_VERSION = '1785287807|4205481722';
 /** @type {string} */
 const CACHE_PREFIX = 'four souls 2-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
